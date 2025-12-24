@@ -1,0 +1,1 @@
+In GSAP’s ScrollTrigger, the start and end markers are positioned relative to the trigger element (the element you set as trigger: "...").
